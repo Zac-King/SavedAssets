@@ -1,0 +1,3 @@
+https://forum.unity3d.com/threads/prevent-sound-from-playing-through-walls.295417/
+
+Do this for sounds in "confined space", and also try to get an echo for corners.
